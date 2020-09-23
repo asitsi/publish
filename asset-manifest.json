@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/publish/static/css/main.eb922b3b.chunk.css",
+    "main.js": "/publish/static/js/main.07b66437.chunk.js",
+    "main.js.map": "/publish/static/js/main.07b66437.chunk.js.map",
+    "runtime-main.js": "/publish/static/js/runtime-main.585e1eb8.js",
+    "runtime-main.js.map": "/publish/static/js/runtime-main.585e1eb8.js.map",
+    "static/css/2.ea6b7726.chunk.css": "/publish/static/css/2.ea6b7726.chunk.css",
+    "static/js/2.7e066302.chunk.js": "/publish/static/js/2.7e066302.chunk.js",
+    "static/js/2.7e066302.chunk.js.map": "/publish/static/js/2.7e066302.chunk.js.map",
+    "index.html": "/publish/index.html",
+    "precache-manifest.51d32a80f4ab5ce37b45fdb5f52907d0.js": "/publish/precache-manifest.51d32a80f4ab5ce37b45fdb5f52907d0.js",
+    "service-worker.js": "/publish/service-worker.js",
+    "static/css/2.ea6b7726.chunk.css.map": "/publish/static/css/2.ea6b7726.chunk.css.map",
+    "static/css/main.eb922b3b.chunk.css.map": "/publish/static/css/main.eb922b3b.chunk.css.map",
+    "static/js/2.7e066302.chunk.js.LICENSE.txt": "/publish/static/js/2.7e066302.chunk.js.LICENSE.txt",
+    "static/media/20859.jpg": "/publish/static/media/20859.6798322b.jpg",
+    "static/media/2170435.jpg": "/publish/static/media/2170435.56fd849e.jpg",
+    "static/media/631.jpg": "/publish/static/media/631.515afb90.jpg",
+    "static/media/632.jpg": "/publish/static/media/632.effcd656.jpg",
+    "static/media/6547.jpg": "/publish/static/media/6547.a75f74ee.jpg",
+    "static/media/Busines.jpg": "/publish/static/media/Busines.d015cc29.jpg",
+    "static/media/accounting.jpg": "/publish/static/media/accounting.a29d676c.jpg",
+    "static/media/art.jpg": "/publish/static/media/art.ccb0990b.jpg",
+    "static/media/consultancy2.png": "/publish/static/media/consultancy2.20d971e8.png",
+    "static/media/edu_1.png": "/publish/static/media/edu_1.ef60b665.png",
+    "static/media/english.jpg": "/publish/static/media/english.972ed0fc.jpg",
+    "static/media/h&f.jpg": "/publish/static/media/h&f.35d89a8f.jpg",
+    "static/media/logo.png": "/publish/static/media/logo.383fc776.png",
+    "static/media/Testimonial.css": "/publish/static/media/map.aec05d41.jpg",
+    "static/media/math.jpg": "/publish/static/media/math.b26d89f6.jpg",
+    "static/media/photography.jpg": "/publish/static/media/photography.9e93c20a.jpg",
+    "static/media/science.jpg": "/publish/static/media/science.f85aa714.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.585e1eb8.js",
+    "static/css/2.ea6b7726.chunk.css",
+    "static/js/2.7e066302.chunk.js",
+    "static/css/main.eb922b3b.chunk.css",
+    "static/js/main.07b66437.chunk.js"
+  ]
+}
