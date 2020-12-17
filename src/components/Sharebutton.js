@@ -7,7 +7,7 @@ const Sharebutton = () => {
       <ShareButton
         title="My Great Page"
         text="A really great page"
-        url="http://www.greatpage.com"
+        url="http://www.divetolearn.com"
         buttonStyle={{
           color: "#ffca08",
           background: "#fff",
